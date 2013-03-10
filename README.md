@@ -1,3 +1,12 @@
+NOTE: Deprecated, please use UnrealScriptIDE instead
+====================================================
+
+Functionality from this package has been pulled into UnrealScriptIDE and I am
+deprecating this package.  Please see:
+https://github.com/Zinggi/UnrealScriptIDE
+
+I am preserving the original README below.
+
 UnrealScript package for Sublime Text 2
 =======================================
 
